@@ -30,7 +30,7 @@ function countEvenNumbers(arrayOfNumbers) {
    const totalEvenNumbers = arrayOfNumbers.filter(number => number % 2 === 0)
    return totalEvenNumbers.length
 }
- assignment.countEvenNumbers = countEvenNumbers;
+// assignment.countEvenNumbers = countEvenNumbers;
 
 /**
  * Challenge - 3
